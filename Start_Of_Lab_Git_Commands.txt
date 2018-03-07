@@ -1,0 +1,5 @@
+cd /c/users/<GMIT ID>/downloads/
+git init
+rm -rf first-repository
+git clone https://github.com/<GITHUB USERNAME>/first-repository.git
+cd first-repository 
